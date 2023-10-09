@@ -1,0 +1,10 @@
+G:\PRG\ukol3\ukol3\bin\Debug\ukol3.exe.config
+G:\PRG\ukol3\ukol3\bin\Debug\ukol3.exe
+G:\PRG\ukol3\ukol3\bin\Debug\ukol3.pdb
+G:\PRG\ukol3\ukol3\obj\Debug\ukol3.csprojAssemblyReference.cache
+G:\PRG\ukol3\ukol3\obj\Debug\ukol3.Form1.resources
+G:\PRG\ukol3\ukol3\obj\Debug\ukol3.Properties.Resources.resources
+G:\PRG\ukol3\ukol3\obj\Debug\ukol3.csproj.GenerateResource.cache
+G:\PRG\ukol3\ukol3\obj\Debug\ukol3.csproj.CoreCompileInputs.cache
+G:\PRG\ukol3\ukol3\obj\Debug\ukol3.exe
+G:\PRG\ukol3\ukol3\obj\Debug\ukol3.pdb
