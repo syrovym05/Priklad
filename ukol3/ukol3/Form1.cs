@@ -15,19 +15,23 @@ namespace ukol3
         public Form1()
         {
             InitializeComponent();
+            this.CenterToScreen();
+            this.ShowIcon = false;
+            this.Text = "Příklad 3";
+
         }
-
        
-        Form2 form2;
-
+        Form form2;
 
         private void button1_Click(object sender, EventArgs e)
         {
             if (listBox1.Items.Count <= 10)
             {
-                form2 = new Form2();
-
+                form2 = new Form();
+                
                 form2.Size = new Size(300, 200);
+                form2.ShowIcon = false;               
+                form2.Text = "Zadej slovo";
 
 
                 Button uloz = new Button();
@@ -47,7 +51,6 @@ namespace ukol3
                 TextBox textBox = new TextBox();
                 textBox.Location = new Point(40, 40);
                 textBox.Size = new Size(188, 22);
-
 
 
                 form2.Controls.Add(textBox);

@@ -8,3 +8,14 @@ G:\PRG\ukol3\ukol3\obj\Debug\ukol3.csproj.GenerateResource.cache
 G:\PRG\ukol3\ukol3\obj\Debug\ukol3.csproj.CoreCompileInputs.cache
 G:\PRG\ukol3\ukol3\obj\Debug\ukol3.exe
 G:\PRG\ukol3\ukol3\obj\Debug\ukol3.pdb
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\bin\Debug\ukol3.exe.config
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\bin\Debug\ukol3.exe
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\bin\Debug\ukol3.pdb
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\obj\Debug\ukol3.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\obj\Debug\ukol3.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\obj\Debug\ukol3.Form1.resources
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\obj\Debug\ukol3.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\obj\Debug\ukol3.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\obj\Debug\ukol3.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\obj\Debug\ukol3.exe
+C:\Users\marsy\Source\Repos\Priklad\ukol3\ukol3\obj\Debug\ukol3.pdb
