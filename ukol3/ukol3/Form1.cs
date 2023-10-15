@@ -27,8 +27,7 @@ namespace ukol3
         {
             if (listBox1.Items.Count <= 10)
             {
-                form2 = new Form();
-                
+                form2 = new Form();                
                 form2.Size = new Size(300, 200);
                 form2.ShowIcon = false;               
                 form2.Text = "Zadej slovo";
