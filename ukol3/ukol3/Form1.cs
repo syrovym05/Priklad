@@ -25,7 +25,7 @@ namespace ukol3
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (listBox1.Items.Count <= 10)
+            if (listBox1.Items.Count < 10)
             {
                 form2 = new Form();                
                 form2.Size = new Size(300, 200);
